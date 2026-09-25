@@ -1,4 +1,4 @@
-# NoImportz ( By: Th3Spl )
+# NoImportz ( By: 03927 )
 
 So, i was reading a blog post about cheat detections from anti-cheats ( ACs ) </br>
 specifically [`Detecting manually mapped drivers`](https://tulach.cc/detecting-manually-mapped-drivers/)
@@ -20,7 +20,7 @@ who are just getting into the windows Kernel environment can gather some useful 
 And well... that's all, it's actually nothing new or extraordinary but it can still be useful for someone <br/><br/>
 
 ## Usage: 
-For a simple code example ready to compile you can check out the [`example project`](https://github.com/Th3Spl/NoImportz/tree/main/NoImportz). <br/>
+For a simple code example ready to compile you can check out the [`example project`](https://github.com/03927/NoImportz/tree/main/NoImportz). <br/>
 **It requires: `ISO C++17 Standard (/std:c++17)`**
 
 Initialization:
@@ -56,5 +56,5 @@ addr = ni_call(
 - [x] Supports variadic functions
 - [x] **NEW**: Supports caching
 
-#### By: Th3Spl
+#### By: 03927
 
